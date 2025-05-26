@@ -82,6 +82,7 @@ OUTPUT :-
 ![ex 1](https://github.com/user-attachments/assets/241901c8-3e96-4935-92a0-d055a9744846)
 
 RESULT:
+
 The program is executed successfully
 
 
